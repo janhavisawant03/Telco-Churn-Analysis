@@ -21,10 +21,6 @@ This Power BI project analyzes customer churn patterns in a telecom company.
 - Active Customers
 - Revenue Analysis
 
-## Dashboard Preview
-
-![Dashboard](Screenshots/Dashboard1.png)
-
 ## Insights
 - Customers with month-to-month contracts have higher churn rates.
 - Fiber optic users show significant churn.
